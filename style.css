@@ -1,0 +1,41 @@
+
+
+body
+{
+    background-color: teal;
+}
+
+.box
+{
+    height:400px;
+    width:500px;
+    border:2px solid black;
+    border-radius: 10px;
+    background-color: wheat;
+    margin-top:100px;
+    margin-left: 690px;
+
+}
+.img img{
+    margin-left:-700px;
+    margin-top: -500px;
+    width:635px;
+    height:665px;
+    
+
+}
+
+.design
+{
+    margin-left: 100px;
+    margin-top: 60px;
+    
+}
+#res
+{
+    margin-left:13px;
+}
+.box h2
+{
+    margin-top: 50px;
+}
